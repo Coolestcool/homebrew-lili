@@ -4,6 +4,7 @@ Install the native LinuxLive USB Creator edition maintained by Enrique (Coolestc
 
 ```sh
 brew tap Coolestcool/lili
+brew trust --formula Coolestcool/lili/linuxlive-usb-creator
 brew install lili
 ```
 
